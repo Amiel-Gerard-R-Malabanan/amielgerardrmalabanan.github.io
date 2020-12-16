@@ -1,0 +1,27 @@
+body{
+	background-color: #261A1A;
+	text-align: center;
+	color: white;
+	padding: 20px;
+	font-size: 60px;
+}
+header{
+	margin-top: -10px;
+	font-size: 70px;
+}
+p{
+	font-size: 40px;
+	margin-top: -15px;
+}
+span{
+	font-size: 45px;
+}
+ul{
+	list-style-type: none;
+	
+}
+a{
+	text-decoration: none;
+	color: white;
+	font-size: 45px;
+}

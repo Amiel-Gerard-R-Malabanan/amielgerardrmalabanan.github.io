@@ -1,0 +1,88 @@
+body{
+	background-color: #261A1A;
+}
+#logo2{
+	position: relative;
+	top: 17px;
+	left: 15px;
+}
+div{
+	background-color: #262626;
+	margin-top: -25px;
+	margin-left: -10px;
+	margin-right: -7px;
+}
+#cc{
+	font-family: Book Antiqua;
+	font-size: 28px;
+	color: #FFFFFF;
+	position: absolute;
+	left: 6%;
+	top: 0%;
+}
+p{
+	font-family: Book Antiqua;
+	font-size: 28px;
+	text-align: right;
+	color: #FFFFFF;
+}
+#home{
+	text-decoration: none;
+	color: white;
+}
+#hac{
+	position: absolute;
+	left: 78%;
+	top: 0%;
+}
+#redpattern2{
+	float: right;
+	width: 250px;
+}
+#what{
+	font-size: 18px;
+	text-align: justify;
+	font-family: Book Antiqua;
+	color: #FFFFFF;
+	float: left;
+	padding-bottom: 15px;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+#patterns{
+	font-size: 17px;
+	text-align: justify;
+	font-family: Book Antiqua;
+	color: black;
+	padding: 15px;
+	height: 224px;
+	width: 220px;
+	background-color: #FFC000;
+	position: absolute;
+	left: 1066px;
+	top: 206px;
+}
+#ff{
+	position: absolute;
+	left: 82%;
+	top: 22%;
+	background-color: black;
+	color: white;
+	font-size: 20px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

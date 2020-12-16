@@ -1,0 +1,68 @@
+body{
+	background-color: #261A1A;
+}
+#logo2{
+	position: relative;
+	top: 17px;
+	left: 15px;
+}
+div{
+	background-color: #262626;
+	margin-top: -25px;
+	margin-left: -10px;
+	margin-right: -7px;
+}
+#cc{
+	font-family: Book Antiqua;
+	font-size: 28px;
+	color: #FFFFFF;
+	position: absolute;
+	left: 6%;
+	top: 0%;
+}
+p{
+	font-family: Book Antiqua;
+	font-size: 28px;
+	text-align: right;
+	color: #FFFFFF;
+}
+#home{
+	text-decoration: none;
+	color: white;
+}
+#hac{
+	position: absolute;
+	left: 78%;
+	top: 0%;
+}
+h2{
+	text-align: center;
+	font-family: Book Antiqua;
+	color: white;
+	font-size: 70px;
+}
+video{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+#stand{
+	text-align: justify;
+	padding: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

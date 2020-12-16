@@ -1,0 +1,62 @@
+body{
+	background-color: #261A1A;
+}
+#logo2{
+	position: relative;
+	top: 17px;
+	left: 15px;
+}
+div{
+	background-color: #262626;
+	margin-top: -25px;
+	margin-left: -10px;
+	margin-right: -7px;
+}
+#cc{
+	font-family: Book Antiqua;
+	font-size: 28px;
+	color: #FFFFFF;
+	position: absolute;
+	left: 6%;
+	top: 0%;
+}
+p{
+	font-family: Book Antiqua;
+	font-size: 28px;
+	text-align: right;
+	color: #FFFFFF;
+}
+#home{
+	text-decoration: none;
+	color: white;
+}
+#hac{
+	position: absolute;
+	left: 78%;
+	top: 0%;
+}
+#ff{
+	position: absolute;
+	font-size: 50px;
+	z-index: 1;
+	top: 35%;
+	left: 34%;
+	background-color: black;
+}
+#redpattern{
+	margin-right: 50%;
+	margin-left: 390px;
+}
+#patterns{
+	font-size: 40px;
+	text-align: justify;
+	font-family: Book Antiqua;
+	color: black;
+	padding: 15px;
+	height: 1150px;
+	width: 523px;
+	background-color: #FFC000;
+	margin-top: -36px;
+	margin-left: auto;
+	margin-right: auto;
+}
